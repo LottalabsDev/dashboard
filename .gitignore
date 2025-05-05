@@ -1,0 +1,8 @@
+.env
+node_modules/
+storage/database.sqlite
+package-lock.json
+nodemon.json
+bun.lockb
+panel
+daemon
